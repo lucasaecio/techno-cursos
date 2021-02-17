@@ -1,11 +1,4 @@
-<p align="center"><a href="https://vuejs.org/" target="_blank"><img src="/src/assets/logo.png" width="250"></a></p>
-
-# Índice
-
-<br>
- 
-   * [Introdução](#Introdução)
-<br>
+<p align="center"><a href="https://vuejs.org/" target="_blank"><img src="/src/assets/logo.png" width="150"></a></p>
 
 ## Introdução
 
